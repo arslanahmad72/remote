@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Universal TV Remote</string>
+    <string name="roku_ip_hint">Roku TV / Player IP (e.g. 192.168.1.10)</string>
+    <string name="connect">Connect</string>
+    <string name="brand">Brand</string>
+    <string name="send_ir">Send IR</string>
+</resources>
